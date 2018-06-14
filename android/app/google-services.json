@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "186548206272",
+    "firebase_url": "https://girlies-9b320.firebaseio.com",
+    "project_id": "girlies-9b320",
+    "storage_bucket": "girlies-9b320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186548206272:android:2ce01318e597d435",
+        "android_client_info": {
+          "package_name": "maugost.girlies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186548206272-aj9vsomac84831kcgn5cnqe1k7apgeh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maugost.girlies",
+            "certificate_hash": "43bffec9c0c300155ffaaebc517eedcc66001bc2"
+          }
+        },
+        {
+          "client_id": "186548206272-jbb697ahj400sfqbm14k5ae18finjr02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGynE_RQjJz_TpYG26T7a8rjRWJmJYCMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186548206272-a9l34rp2140cf2cum28h41qlpoe7h8si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "maugost.girlies"
+              }
+            },
+            {
+              "client_id": "186548206272-jbb697ahj400sfqbm14k5ae18finjr02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Paystack Example</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="card_number">Card number</string>
+    <string name="cvv">CVV</string>
+    <string name="mm">MM</string>
+    <string name="yyyy">YYYY</string>
+    <string name="create_token">Create token</string>
+    <string name="no_card_yet">No card yet</string>
+    <string name="no_token">No token</string>
+    <string name="token_null_message">Token was null</string>
+    <string name="token_not_gotten">Unable to get token</string>
+    <string name="sample_card">4123450131001381</string>
+    <string name="sample_cvv">883</string>
+    <string name="sample_month">01</string>
+    <string name="sample_year">2020</string>
+    <string name="no_transaction_yet">No transaction yet</string>
+    <string name="amount_in_kobo">Amount in Kobo</string>
+
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="done">DONE</string>
+    <string name="card_holder_name_sample">JOHN MATTHEW</string>
+    <string name="card_holder">CARD HOLDER</string>
+    <string name="expiry">EXPIRY</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="card_expiry">CARD EXPIRY</string>
+    <string name="card_mm_yy">MM/YY</string>
+    <string name="hint_cvv_front">0000</string>
+    <string name="name_on_card">NAME ON CARD</string>
+    <string name="error_invalid_month">Invalid month</string>
+    <string name="error_card_expired">Card expired</string>
+    <integer name="card_name_len">25</integer>
+
+
+    <string name="facebook_app_id">1760850590627259</string>
+    <!--<string name="fb_login_protocol_scheme">fb1760850590627259</string>-->
+
+
+</resources>

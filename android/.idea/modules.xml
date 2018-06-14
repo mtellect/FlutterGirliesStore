@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-1.0.0/android/firebase_analytics.iml" filepath="$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-1.0.0/android/firebase_analytics.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.5.10/android/firebase_auth.iml" filepath="$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.5.10/android/firebase_auth.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.2.3/android/firebase_core.iml" filepath="$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.2.3/android/firebase_core.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-1.0.0/android/firebase_database.iml" filepath="$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-1.0.0/android/firebase_database.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.3.5/android/firebase_storage.iml" filepath="$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.3.5/android/firebase_storage.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-3.0.3+1/android/google_sign_in.iml" filepath="$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-3.0.3+1/android/google_sign_in.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.4.2/android/image_picker.iml" filepath="$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.4.2/android/image_picker.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/local_notifications-0.0.6/android/local_notifications.iml" filepath="$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/local_notifications-0.0.6/android/local_notifications.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.4.2/android/shared_preferences.iml" filepath="$USER_HOME$/Downloads/Compressed/flutter_windows_v0.2.8-beta/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.4.2/android/shared_preferences.iml" />
+    </modules>
+  </component>
+</project>

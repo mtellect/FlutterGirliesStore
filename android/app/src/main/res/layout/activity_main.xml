@@ -1,0 +1,159 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".PayStackMainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/layout_custom_form"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:gravity="center_vertical"
+            android:minHeight="150dp">
+
+            <LinearLayout
+                android:id="@+id/layout_card_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/edit_card_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:hint="@string/card_number"
+                    android:inputType="number"
+                    android:minEms="8"
+                    android:text=""
+                    />
+
+                <EditText
+                    android:id="@+id/edit_cvc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:hint="@string/cvv"
+                    android:inputType="number"
+                    android:maxLength="4"
+                    android:minEms="4"
+                    android:text=""/>
+            </LinearLayout>
+
+            <View
+                android:id="@+id/divider_horizontal"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_centerHorizontal="true"/>
+
+            <EditText
+                android:id="@+id/edit_expiry_month"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/layout_card_num"
+                android:layout_toLeftOf="@id/divider_horizontal"
+                android:gravity="right"
+                android:hint="@string/mm"
+                android:inputType="number"
+                android:maxEms="3"
+                android:maxLength="2"
+                android:text=""
+                android:layout_toStartOf="@id/divider_horizontal"/>
+
+            <EditText
+                android:id="@+id/edit_expiry_year"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/layout_card_num"
+                android:layout_toRightOf="@id/divider_horizontal"
+                android:gravity="left"
+                android:hint="@string/yyyy"
+                android:inputType="number"
+                android:maxEms="4"
+                android:maxLength="4"
+                android:text=""
+                android:layout_toEndOf="@id/divider_horizontal"/>
+
+            <Button
+                android:id="@+id/button_perform_transaction"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/edit_expiry_year"
+                android:layout_centerHorizontal="true"
+                android:padding="8dp"
+                android:text="Charge card (init from server)"/>
+            <Button
+                android:id="@+id/button_perform_local_transaction"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/button_perform_transaction"
+                android:layout_centerHorizontal="true"
+                android:padding="8dp"
+                android:text="Charge card (init from app)"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_transaction_response"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout_custom_form"
+            android:background="#1C3A4B"
+            android:gravity="center_vertical"
+            android:minHeight="70dp"
+            >
+
+            <TextView
+                android:id="@+id/textview_reference"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/activity_horizontal_margin"
+                android:padding="8dp"
+                android:text="@string/no_transaction_yet"
+                android:textColor="#ffffff"/>
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/layout_token_response"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout_transaction_response"
+            android:background="#1C3A4B"
+            android:gravity="center_vertical"
+            android:minHeight="70dp"
+            >
+
+            <TextView
+                android:id="@+id/textview_error"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/activity_horizontal_margin"
+                android:padding="8dp"
+                android:text=" "
+                android:textColor="#ffffff"/>
+
+            <TextView
+                android:id="@+id/textview_backend_message"
+                style="@style/TextAppearance.AppCompat.Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textview_error"
+                android:layout_margin="@dimen/activity_vertical_margin"
+                android:padding="8dp"
+                android:text=" "
+                android:textColor="#ffffff"/>
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</ScrollView>

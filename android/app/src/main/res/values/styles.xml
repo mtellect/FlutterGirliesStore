@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <!-- Show a splash screen on the activity. Automatically removed when
+             Flutter draws its first frame -->
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/app_pink</item>
+        <item name="colorPrimaryDark">@color/app_pink</item>
+        <item name="colorAccent">@color/app_pink</item>
+    </style>
+
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/app_pink</item>
+        <item name="colorPrimaryDark">@color/app_pink</item>
+        <item name="colorAccent">@color/app_pink</item>
+    </style>
+
+    <declare-styleable name="creditcard">
+        <attr name="cvv" format="integer" />
+        <attr name="card_holder_name" format="string" />
+        <attr name="card_expiration" format="string" />
+        <attr name="card_number" format="string" />
+        <attr name="card_side" format="enum">
+            <enum name="front" value="1" />
+            <enum name="back" value="0" />
+        </attr>
+
+
+    </declare-styleable>
+
+</resources>
