@@ -20,7 +20,7 @@ A Shopping / E-commerce application built with flutter from scratch.
 
 This project isn't complete and it's not yet perfect but still under the development phase, please feel free to study the source code and checkout my new youtube channel were i'd be guiding and explaining the steps i took to build the App from scratch....
 
-This repository containing links of all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development.
+Here is a repository containing links of all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development.
 
 ## Pawan's YouTube Channel
 
