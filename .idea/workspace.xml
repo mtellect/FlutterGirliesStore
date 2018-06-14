@@ -11,39 +11,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="510b8218-9580-444a-985a-6d62fc3a5619" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_for_Android.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss14.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss15.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss17.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss18.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss19.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss20.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss21.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss22.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ss9.png" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/ss1.png" afterPath="$PROJECT_DIR$/screenshots/ss1.png" />
+      <change beforePath="$PROJECT_DIR$/ss10.png" afterPath="$PROJECT_DIR$/screenshots/ss10.png" />
+      <change beforePath="$PROJECT_DIR$/ss11.png" afterPath="$PROJECT_DIR$/screenshots/ss11.png" />
+      <change beforePath="$PROJECT_DIR$/ss12.png" afterPath="$PROJECT_DIR$/screenshots/ss12.png" />
+      <change beforePath="$PROJECT_DIR$/ss13.png" afterPath="$PROJECT_DIR$/screenshots/ss13.png" />
+      <change beforePath="$PROJECT_DIR$/ss14.png" afterPath="$PROJECT_DIR$/screenshots/ss14.png" />
+      <change beforePath="$PROJECT_DIR$/ss15.png" afterPath="$PROJECT_DIR$/screenshots/ss15.png" />
+      <change beforePath="$PROJECT_DIR$/ss16.png" afterPath="$PROJECT_DIR$/screenshots/ss16.png" />
+      <change beforePath="$PROJECT_DIR$/ss17.png" afterPath="$PROJECT_DIR$/screenshots/ss17.png" />
+      <change beforePath="$PROJECT_DIR$/ss18.png" afterPath="$PROJECT_DIR$/screenshots/ss18.png" />
+      <change beforePath="$PROJECT_DIR$/ss19.png" afterPath="$PROJECT_DIR$/screenshots/ss19.png" />
+      <change beforePath="$PROJECT_DIR$/ss2.png" afterPath="$PROJECT_DIR$/screenshots/ss2.png" />
+      <change beforePath="$PROJECT_DIR$/ss20.png" afterPath="$PROJECT_DIR$/screenshots/ss20.png" />
+      <change beforePath="$PROJECT_DIR$/ss21.png" afterPath="$PROJECT_DIR$/screenshots/ss21.png" />
+      <change beforePath="$PROJECT_DIR$/ss22.png" afterPath="$PROJECT_DIR$/screenshots/ss22.png" />
+      <change beforePath="$PROJECT_DIR$/ss3.png" afterPath="$PROJECT_DIR$/screenshots/ss3.png" />
+      <change beforePath="$PROJECT_DIR$/ss4.png" afterPath="$PROJECT_DIR$/screenshots/ss4.png" />
+      <change beforePath="$PROJECT_DIR$/ss5.png" afterPath="$PROJECT_DIR$/screenshots/ss5.png" />
+      <change beforePath="$PROJECT_DIR$/ss6.png" afterPath="$PROJECT_DIR$/screenshots/ss6.png" />
+      <change beforePath="$PROJECT_DIR$/ss7.png" afterPath="$PROJECT_DIR$/screenshots/ss7.png" />
+      <change beforePath="$PROJECT_DIR$/ss8.png" afterPath="$PROJECT_DIR$/screenshots/ss8.png" />
+      <change beforePath="$PROJECT_DIR$/ss9.png" afterPath="$PROJECT_DIR$/screenshots/ss9.png" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -62,8 +53,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="235">
-                <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+              <first_editor relative-caret-position="353">
+                <caret line="27" column="75" lean-forward="false" selection-start-line="27" selection-start-column="75" selection-end-line="27" selection-end-column="75" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -213,6 +204,16 @@
               <item name="girlies" type="b2602c69:ProjectViewProjectNode" />
               <item name="girlies" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="girlies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="girlies" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="girlies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="girlies" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -237,6 +238,8 @@
       <recent name="C:\Users\MAUGOST\Desktop\girlies\girlies\lib\app" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MAUGOST\Desktop\girlies\girlies\screenshots" />
+      <recent name="C:\Users\MAUGOST\Desktop\girlies\girlies" />
       <recent name="C:\Users\MAUGOST\Desktop\girlies\girlies\lib\models" />
       <recent name="C:\Users\MAUGOST\Desktop\girlies\girlies\android\app" />
       <recent name="C:\Users\MAUGOST\Desktop\girlies\girlies\ios\Runner" />
@@ -363,22 +366,30 @@
       <option name="project" value="LOCAL" />
       <updated>1528952931114</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fluttergirliesShop second push/commit">
+      <created>1528955056296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528955056296</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21482602" sideWeight="0.1308017" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.79796267" sideWeight="0.5060514" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Dart Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1901528" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4770798" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0052950075" sideWeight="0.18238993" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0052950075" sideWeight="0.18255578" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39898133" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20033956" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -388,12 +399,12 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5976231" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6162988" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16298811" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22692889" sideWeight="0.8691983" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22692889" sideWeight="0.8691983" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0052950075" sideWeight="0.8176101" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0052950075" sideWeight="0.8174442" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -408,7 +419,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fluttergirliesShop first push/commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fluttergirliesShop first push/commit" />
+    <MESSAGE value="fluttergirliesShop second push/commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fluttergirliesShop second push/commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -916,8 +928,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="235">
-            <caret line="16" column="52" lean-forward="false" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+          <first_editor relative-caret-position="353">
+            <caret line="27" column="75" lean-forward="false" selection-start-line="27" selection-start-column="75" selection-end-line="27" selection-end-column="75" />
             <folding />
           </first_editor>
           <second_editor />

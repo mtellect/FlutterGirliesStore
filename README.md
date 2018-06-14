@@ -4,19 +4,32 @@ A Shopping / E-commerce application built with flutter from scratch.
 
 ## Screenshots
 
-<img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" />
-<img src="ss3.png" height="300em" /> <img src="ss4.png" height="300em" />
-<img src="ss5.png" height="300em" /> <img src="ss6.png" height="300em" />
-<img src="ss7.png" height="300em" /> <img src="ss8.png" height="300em" />
-<img src="ss9.png" height="300em" /> <img src="ss10.png" height="300em" />
-<img src="ss11.png" height="300em" /> <img src="ss12.png" height="300em" />
-<img src="ss13.png" height="300em" /> <img src="ss14.png" height="300em" />
-<img src="ss15.png" height="300em" /> <img src="ss16.png" height="300em" />
-<img src="ss17.png" height="300em" /> <img src="ss18.png" height="300em" />
-<img src="ss19.png" height="300em" /> <img src="ss20.png" height="300em" />
-<img src="ss21.png" height="300em" /> <img src="ss22.png" height="300em" />
+<img src="screenshots/ss1.png" height="300em" /> <img src="screenshots/ss2.png" height="300em" />
+<img src="screenshots/ss3.png" height="300em" /> <img src="screenshots/ss4.png" height="300em" />
+<img src="screenshots/ss5.png" height="300em" /> <img src="screenshots/ss6.png" height="300em" />
+<img src="screenshots/ss7.png" height="300em" /> <img src="screenshots/ss8.png" height="300em" />
+<img src="screenshots/ss9.png" height="300em" /> <img src="screenshots/ss10.png" height="300em" />
+<img src="screenshots/ss11.png" height="300em" /> <img src="screenshots/ss12.png" height="300em" />
+<img src="screenshots/ss13.png" height="300em" /> <img src="screenshots/ss14.png" height="300em" />
+<img src="screenshots/ss15.png" height="300em" /> <img src="screenshots/ss16.png" height="300em" />
+<img src="screenshots/ss17.png" height="300em" /> <img src="screenshots/ss18.png" height="300em" />
+<img src="screenshots/ss19.png" height="300em" /> <img src="screenshots/ss20.png" height="300em" />
+<img src="screenshots/ss21.png" height="300em" /> <img src="screenshots/ss22.png" height="300em" />
 
 ### Show some :heart: and star the repo to support the project
+
+This project isn't complete and it's not yet perfect but still under the development phase, please feel free to study the source code and checkout my new youtube channel were i'd be guiding and explaining the steps i took to build the App from scratch....
+
+This repository containing links of all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development.
+
+## YouTube Channels
+
+[MTechViral](https://www.youtube.com/c/MTechViral)
+[iamMaugost](https://www.youtube.com/channel/UCk3NXffAF04kM3q5uPXMU-Q/about)
+
+## Facebook Group
+
+[Let's Flutter](https://www.facebook.com/groups/425920117856409/)
 
 
 # Pull Requests
