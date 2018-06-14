@@ -22,14 +22,19 @@ This project isn't complete and it's not yet perfect but still under the develop
 
 This repository containing links of all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development.
 
-## YouTube Channels
+## Pawan's YouTube Channel
 
 [MTechViral](https://www.youtube.com/c/MTechViral)
-[iamMaugost](https://www.youtube.com/channel/UCk3NXffAF04kM3q5uPXMU-Q/about)
 
-## Facebook Group
+## Pawan's Facebook Group
 
 [Let's Flutter](https://www.facebook.com/groups/425920117856409/)
+
+## My YouTube Channel
+
+[iamMaugost](https://www.youtube.com/channel/UCk3NXffAF04kM3q5uPXMU-Q/about)
+
+
 
 
 # Pull Requests
